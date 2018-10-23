@@ -1,0 +1,28 @@
+.img-fluid{
+    padding: 10px;
+    width: 100%;
+}
+
+.display-5{
+    margin: 20px;
+}
+
+.btn{
+    background: coral;
+    color: rgb(13, 37, 90);
+    margin-left: 20px;
+    border-radius: 25px;
+}
+
+.containerAbout{
+    margin-top: 40px;
+    background: rgb(13, 37, 90);
+}
+
+.about{
+    width:50%;
+}
+
+.display-6{
+    color:white;
+}
